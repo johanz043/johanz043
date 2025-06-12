@@ -1,5 +1,5 @@
-## ✌️ Welcome to my profile!
+# ✌️ Welcome to my profile!
 
 hi
 
-## 🔭 About Me
+# 🔭 About Me
