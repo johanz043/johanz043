@@ -14,10 +14,10 @@ I have experience in the languages:
 However, I excel the most at python and HTML, with the majority of my personal projects using the two. I have used the other languages during uni, however cannot share my projects due to academic integrity policies and university regulations.
 
 
-# 🎁 Under Development
-- Igotalotofphotos-v3 website will be developed soon!
-
-
 # 💻 Websites
 - Igotalotofphotos Version 2
 https://johanz043.github.io/igotalotofphotos-v2/
+
+
+# 🎁 Under Development
+- Igotalotofphotos-v3 website will be developed soon!
