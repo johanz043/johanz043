@@ -20,4 +20,5 @@ https://johanz043.github.io/igotalotofphotos-v2/
 
 
 # 🎁 Under Development
+- BuddyBot - a mental health focused chatbot is under development!
 - Igotalotofphotos-v3 website will be developed soon!
