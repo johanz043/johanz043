@@ -16,4 +16,5 @@ However, I excel the most at python and HTML, with the majority of my personal p
 
 # 🎁 Currently Developing
 Igotalotofphotos-v2 website currently under development
+
 https://johanz043.github.io/igotalotofphotos-v2/
