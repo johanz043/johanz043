@@ -14,7 +14,7 @@ I have experience in the languages:
 However, I excel the most at python and HTML, with the majority of my personal projects using the two. I have used the other languages during uni, however cannot share my projects due to academic integrity policies and university regulations.
 
 
-# 🎁 Currently Developing
-Igotalotofphotos-v2 website currently under development
+# 🎁 Under Development
+- Igotalotofphotos-v3 website will be developed soon!
 
 https://johanz043.github.io/igotalotofphotos-v2/
