@@ -15,11 +15,11 @@ However, I excel the most at python and HTML, with the majority of my personal p
 
 
 # 💻 Websites
-- Igotalotofphotos Version 2
-https://johanz043.github.io/igotalotofphotos-v2/
+- Igotalotofphotos Version 3
+https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🎁 Under Development
-- Igotalotofphotos-v3 website is currently under development!
+- Igotalotofphotos-v4 website will be developed soon!
 - BuddyBot - a mental health focused rule based chatbot will be developed soon!
 
