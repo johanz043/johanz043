@@ -10,6 +10,7 @@ I have experience in the languages:
 - C++
 - C#
 - Visual Basic
+- CSS
 
 However, I excel the most at python and HTML, with the majority of my personal projects using the two. I have used the other languages during uni, however cannot share my projects due to academic integrity policies and university regulations.
 
