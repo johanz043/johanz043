@@ -23,6 +23,10 @@ https://summit-photography.vercel.app
 https://johanz043.github.io/igotalotofphotos-v3/
 
 
+# 🔭 Apps
+Under development!
+
+
 # 🎁 Under Development
 - MyPythonJournal available soon!
 
