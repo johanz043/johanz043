@@ -20,7 +20,7 @@ However, I excel the most at python and HTML, with the majority of my personal p
 https://johanz043.github.io/igotalotofphotos-v3/
 
 - Summit Photography
-summit-photography.vercel.app
+https://summit-photography.vercel.app/
 
 
 # 🎁 Under Development
