@@ -16,13 +16,13 @@ However, I excel the most at python and HTML, with the majority of my personal p
 
 
 # 💻 Websites
-- Igotalotofphotos Version 3
-https://johanz043.github.io/igotalotofphotos-v3/
-
 - Summit Photography
-https://summit-photography.vercel.app/
+https://summit-photography.vercel.app
+
+- Igotalotofphotos
+https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🎁 Under Development
-- Igotalotofphotos-v4 website will be developed soon!
+- MyPythonJournal available soon!
 
