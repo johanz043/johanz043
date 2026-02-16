@@ -28,5 +28,5 @@ Under development!
 
 
 # 🎁 Under Development
-- MyPythonJournal available soon!
+
 
