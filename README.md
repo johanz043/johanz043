@@ -16,10 +16,10 @@ However, I excel the most at python and HTML, with the majority of my personal p
 
 
 # 💻 Websites
-- Summit Photography
+- Summit Photography - Drone Videography + Photos!
 https://summit-photography.vercel.app
 
-- Igotalotofphotos
+- Igotalotofphotos - Photos taken by me on my Nikon D5300
 https://johanz043.github.io/igotalotofphotos-v3/
 
 
