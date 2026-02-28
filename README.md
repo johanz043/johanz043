@@ -31,4 +31,5 @@ https://johanz043.github.io/igotalotofphotos-v3/
 # 🎁 Under Development
 - TalkToMe - An online random chat
 - NBA Stat Map - Shows the best performers for each year
+- InstaLock - A web extension which blocks you from scrolling instagram (maybe Facebook if I'm able to code that)
 
