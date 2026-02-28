@@ -24,10 +24,11 @@ https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🔭 Apps
-- BusyBee: The handy to-do list 🐝\
+- BusyBee - The handy to-do list 🐝\
 [Download BusyBee v1.0 here](https://github.com/johanz043/BusyBee/releases/download/v1.0/BusyBee.exe) 🐝
 
 
 # 🎁 Under Development
-
+- TalkToMe - An online random chat
+- NBA Stat Map - Shows the best performers for each year
 
