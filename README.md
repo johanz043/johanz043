@@ -24,7 +24,7 @@ https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🔭 Apps
-- QuickMeals - An AI bot the assesses the food in your fridge and returns recipes\
+- QuickMeals - An AI bot that scans food and returns recipes 🍓\
 [Download the code in this repository](https://github.com/johanz043/QuickMeals)
 
 - BusyBee - The handy to-do list 🐝\
