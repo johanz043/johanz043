@@ -24,12 +24,12 @@ https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🔭 Apps
+- QuickMeals - An AI bot the assesses the food in your fridge and returns recipes
 - BusyBee - The handy to-do list 🐝\
 [Download BusyBee v1.0 here](https://github.com/johanz043/BusyBee/releases/download/v1.0/BusyBee.exe) 🐝
 
 
 # 🎁 Under Development
-- QuickMeals - An AI bot the assesses the food in your fridge and returns recipes
 - TalkToMe - An online random chat
 - InstaLock - A web extension which blocks you from scrolling instagram (maybe Facebook if I'm able to code that)
 
