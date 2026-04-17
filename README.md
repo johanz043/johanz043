@@ -12,6 +12,7 @@ I have experience in the languages:
 - Visual Basic
 - CSS
 
+[Check out my uni account](https://github.com/s223528029)
 
 
 # 💻 Websites
