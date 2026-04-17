@@ -4,8 +4,6 @@
 # 🔭 About Me
 I am currently a fourth year computer science student in Deakin University. I am passionate in creating fun interactive programs and web applications, constantly trying to improve the efficiency and quality of my projects.
 
-[Check out my uni account](https://github.com/s223528029)
-
 I have experience in the languages:
 - Python
 - HTML
