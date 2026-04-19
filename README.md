@@ -20,12 +20,8 @@ I am currently a fourth year computer science student in Deakin University. I am
     </td>
   </tr>
   <tr>
-    <td align="center">
-      Python &nbsp; HTML &nbsp; C++ &nbsp; C# &nbsp; CSS &nbsp; JavaScript
-    </td>
-    <td align="center">
-      GitHub &nbsp; VS Code &nbsp; PowerShell &nbsp; Figma &nbsp; Vercel &nbsp; Jenkins &nbsp; AWS
-    </td>
+    <td align="center">Python · HTML · C++ · C# · CSS · JS</td>
+    <td align="center">GitHub · VSCode · PowerShell · Figma · Vercel · Jenkins · AWS</td>
   </tr>
 </table>
 
