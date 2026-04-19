@@ -8,7 +8,7 @@ I am currently a fourth year computer science student in Deakin University. I am
 
 | Languages  | Tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=py,html,cpp,cs,css,js" /> | Content Cell  |
+| <img src="https://skillicons.dev/icons?i=py,html,cpp,cs,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode,powershell,figma,jenkins,aws" /> |
 
 
 # 💻 Websites
