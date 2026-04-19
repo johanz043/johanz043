@@ -14,7 +14,7 @@ I have experience in the languages:
 
 | Languages  | Tools |
 | ------------- | ------------- |
-| <img src="file:///C:/Users/Johanz/Downloads/github.svg" width="20"> | Content Cell  |
+| <img src="https://simpleicons.org/icons/python.svg" width="20" /> | Content Cell  |
 
 
 # 💻 Websites
