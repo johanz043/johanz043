@@ -12,7 +12,7 @@ I have experience in the languages:
 - Visual Basic
 - CSS
 
-| First Header  | Second Header |
+| Languages  | Tools |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
