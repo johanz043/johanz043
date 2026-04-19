@@ -77,5 +77,5 @@ https://johanz043.github.io/igotalotofphotos-v3/
 - InstaLock - A web extension which blocks you from scrolling instagram (maybe Facebook if I'm able to code that)
 
 # 😶‍🌫️ Alt Account
-[My Uni Account](https://github.com/s223528029)
+- [My Uni Account](https://github.com/s223528029)
 
