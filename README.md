@@ -8,6 +8,9 @@ I am currently a fourth year computer science student in Deakin University. I am
 
 <table>
   <tr>
+    <th colspan="6">Languages</th>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=py" /><br>Python
     </td>
@@ -17,9 +20,44 @@ I am currently a fourth year computer science student in Deakin University. I am
     <td align="center">
       <img src="https://skillicons.dev/icons?i=cpp" /><br>C++
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" /><br>C#
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="7">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=powershell" /><br>PowerShell
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" /><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" /><br>Vercel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jenkins" /><br>Jenkins
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" /><br>AWS
+    </td>
   </tr>
 </table>
-
 # 💻 Websites
 - Summit Photography - Drone Videography + Photos!\
 https://summit-photography.vercel.app
