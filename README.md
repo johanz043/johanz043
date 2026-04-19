@@ -6,9 +6,19 @@ I am currently a fourth year computer science student in Deakin University. I am
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" /><br>C++
+    </td>
+  </tr>
+</table>
 
 # 💻 Websites
 - Summit Photography - Drone Videography + Photos!\
