@@ -14,7 +14,8 @@ I have experience in the languages:
 
 | Languages  | Tools |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+|   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />  | Content Cell  |
 
 
 # 💻 Websites
