@@ -8,20 +8,15 @@ I am currently a fourth year computer science student in Deakin University. I am
 
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,html,cpp,cs,css,js" />
+      <img src="https://skillicons.dev/icons?i=py" /><br>Python
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github,vscode,powershell,figma,vercel,jenkins,aws" />
+      <img src="https://skillicons.dev/icons?i=html" /><br>HTML
     </td>
-  </tr>
-  <tr>
-    <td align="center">Python · HTML · C++ · C# · CSS · JS</td>
-    <td align="center">GitHub · VSCode · PowerShell · Figma · Vercel · Jenkins · AWS</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" /><br>C++
+    </td>
   </tr>
 </table>
 
