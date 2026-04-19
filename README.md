@@ -30,7 +30,7 @@ I am currently a fourth year computer science student in Deakin University. I am
       <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
     </td>
   </tr>
-\
+
   <tr>
     <th colspan="7">Tools</th>
   </tr>
@@ -40,9 +40,6 @@ I am currently a fourth year computer science student in Deakin University. I am
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=powershell" /><br>PowerShell
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" /><br>Figma
