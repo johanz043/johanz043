@@ -2,7 +2,7 @@
 
 
 # 🔭 About Me
-I am currently a fourth year computer science student in Deakin University. I am passionate in creating fun interactive programs and web applications, constantly trying to improve the efficiency and quality of my projects.
+I’m a fourth‑year Computer Science student at Deakin University with a strong passion for building fun, interactive programs and web applications. I’m always exploring new ways to improve the efficiency, quality, and overall experience of the projects I create.
 
 
 
