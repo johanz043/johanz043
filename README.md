@@ -6,9 +6,28 @@ I am currently a fourth year computer science student in Deakin University. I am
 
 
 
-| Languages  | Tools |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=py,html,cpp,cs,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode,powershell,figma,vercel,jenkins,aws" /> |
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,html,cpp,cs,css,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github,vscode,powershell,figma,vercel,jenkins,aws" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Python &nbsp; HTML &nbsp; C++ &nbsp; C# &nbsp; CSS &nbsp; JavaScript
+    </td>
+    <td align="center">
+      GitHub &nbsp; VS Code &nbsp; PowerShell &nbsp; Figma &nbsp; Vercel &nbsp; Jenkins &nbsp; AWS
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Websites
