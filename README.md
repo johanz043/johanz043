@@ -30,7 +30,7 @@ I am currently a fourth year computer science student in Deakin University. I am
       <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
     </td>
   </tr>
-
+\
   <tr>
     <th colspan="7">Tools</th>
   </tr>
