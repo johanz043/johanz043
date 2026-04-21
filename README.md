@@ -74,7 +74,8 @@ https://johanz043.github.io/igotalotofphotos-v3/
 
 
 # 🧩 Extensions
-- InstaLock - A web extension which blocks you from doomscrolling instagram!
+- InstaLock - A web extension which blocks you from doomscrolling instagram!\
+[Download the extension in this repository](https://github.com/johanz043/Instagram-Doomscroll-Blocker.git)
 
 
 
