@@ -73,8 +73,10 @@ https://johanz043.github.io/igotalotofphotos-v3/
 [Download BusyBee v1.0 here](https://github.com/johanz043/BusyBee/releases/download/v1.0/BusyBee.exe)
 
 
-# 🎁 Under Development
-- InstaLock - A web extension which blocks you from scrolling instagram (maybe Facebook if I'm able to code that)
+# 🧩 Extensions
+- InstaLock - A web extension which blocks you from doomscrolling instagram!
+
+
 
 # 😶‍🌫️ Alt Account
 - [My Uni Account](https://github.com/s223528029)
