@@ -48,9 +48,6 @@ I’m a fourth‑year Computer Science student at Deakin University with a stron
       <img src="https://skillicons.dev/icons?i=vercel" /><br>Vercel
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jenkins" /><br>Jenkins
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=aws" /><br>AWS
     </td>
   </tr>
